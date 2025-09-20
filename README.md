@@ -1,5 +1,5 @@
 👋 Hi, I’m jenoskey 
-- I have 7 years’ experience in the embedded systems field, specializing in designing reprogrammable control systems using Arduino. In addition to the design and programming of embedded systems using a microcontroller (AVR)
+- I have 9 years’ experience in the embedded systems field, specializing in designing reprogrammable control systems using Arduino. In addition to the design and programming of embedded systems using a microcontroller (AVR)
 
 - I also have the ability to design digital circuits using logic gates as well as design analog control circuits
 
